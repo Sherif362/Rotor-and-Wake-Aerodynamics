@@ -3,8 +3,8 @@ This project involved developing a Blade Element Momentum (BEM) code in Python t
 Project Scope:
 
     Airfoil Selection:
-        Wind Turbine: DU airfoil (polar provided)
-        Propeller: ARA-D 8% airfoil (polar assumed available)
+        Wind Turbine: DU airfoil
+    
     Wind Turbine Baseline Design:
         Radius: 50 m
         Blade Count: 3
